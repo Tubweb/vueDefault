@@ -26,16 +26,4 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Installed dependencies
-Font awesome
-Axios
-core-js
-Vue class component
-Vue property decorator
-Vue router
-Vuex
-Vuex module Decorators
-Typescript
-Babel
-ESLint
-Prettier
-SASS
+Font awesome, Axios, core-js, Vue class component, Vue property decorator, Vue router, Vuex, Vuex module Decorators, Typescript, Babel, ESLint, Prettier, SASS
